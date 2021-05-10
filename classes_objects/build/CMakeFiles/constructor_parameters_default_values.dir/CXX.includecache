@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/edpires/github/Cpp-exemples/classes_objects/main.cpp
+/home/edpires/cpp/repositories/Cpp-exemples/classes_objects/main.cpp
 iostream
 -
 string

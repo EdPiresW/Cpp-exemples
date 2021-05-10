@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/edpires/github/Cpp-exemples/classes_objects
+CMAKE_SOURCE_DIR = /home/edpires/cpp/repositories/Cpp-exemples/classes_objects
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/edpires/github/Cpp-exemples/classes_objects/build
+CMAKE_BINARY_DIR = /home/edpires/cpp/repositories/Cpp-exemples/classes_objects/build
 
 # Utility rule file for ContinuousSubmit.
 
@@ -71,6 +71,6 @@ CMakeFiles/ContinuousSubmit.dir/clean:
 .PHONY : CMakeFiles/ContinuousSubmit.dir/clean
 
 CMakeFiles/ContinuousSubmit.dir/depend:
-	cd /home/edpires/github/Cpp-exemples/classes_objects/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/edpires/github/Cpp-exemples/classes_objects /home/edpires/github/Cpp-exemples/classes_objects /home/edpires/github/Cpp-exemples/classes_objects/build /home/edpires/github/Cpp-exemples/classes_objects/build /home/edpires/github/Cpp-exemples/classes_objects/build/CMakeFiles/ContinuousSubmit.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/edpires/cpp/repositories/Cpp-exemples/classes_objects/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/edpires/cpp/repositories/Cpp-exemples/classes_objects /home/edpires/cpp/repositories/Cpp-exemples/classes_objects /home/edpires/cpp/repositories/Cpp-exemples/classes_objects/build /home/edpires/cpp/repositories/Cpp-exemples/classes_objects/build /home/edpires/cpp/repositories/Cpp-exemples/classes_objects/build/CMakeFiles/ContinuousSubmit.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ContinuousSubmit.dir/depend
 
