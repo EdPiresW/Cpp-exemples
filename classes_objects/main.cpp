@@ -4,7 +4,9 @@
 
 int main(int, char**) {
     std::cout << "teste, world!\n";
-    std::vector 
+    std::cout << "teste2, world!\n";
+
+     
     
 return 0;
 }

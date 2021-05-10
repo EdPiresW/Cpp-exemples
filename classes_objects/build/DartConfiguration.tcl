@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/edpires/github/Cpp-exemples/classes_objects
-BuildDirectory: /home/edpires/github/Cpp-exemples/classes_objects/build
+SourceDirectory: /home/edpires/cpp/repositories/Cpp-exemples/classes_objects
+BuildDirectory: /home/edpires/cpp/repositories/Cpp-exemples/classes_objects/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -14,7 +14,7 @@ CostDataFile:
 Site: DESKTOP-9UMOEUK
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Linux-clang++-10
+BuildName: Linux-c++
 
 # Subprojects
 LabelsForSubprojects: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/edpires/github/Cpp-exemples/classes_objects"
+ConfigureCommand: "/usr/bin/cmake" "/home/edpires/cpp/repositories/Cpp-exemples/classes_objects"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 
@@ -62,8 +62,8 @@ UpdateOptions:
 UpdateType: 
 
 # Compiler info
-Compiler: /bin/clang++-10
-CompilerVersion: 10.0.0
+Compiler: /usr/bin/c++
+CompilerVersion: 9.3.0
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 

@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/edpires/github/Cpp-exemples/classes_objects/build",
-  "command": "/bin/clang++-10    -g   -o CMakeFiles/constructor_parameters_default_values.dir/main.cpp.o -c /home/edpires/github/Cpp-exemples/classes_objects/main.cpp",
-  "file": "/home/edpires/github/Cpp-exemples/classes_objects/main.cpp"
-}
-]
