@@ -1,0 +1,227 @@
+[33mcommit f26a6fe0c5e0a84c1ef23e54769d6ae870218d8d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: db63141 7480a98
+Author: EdPiresW <77972418+EdPiresW@users.noreply.github.com>
+Date:   Tue May 11 00:25:40 2021 +0100
+
+    Merge pull request #6 from EdPiresW/addfile
+    
+    add
+
+[33mcommit 7480a984edca58e0dceffbf1d8803f8f9b76aa4d[m[33m ([m[1;31morigin/addfile[m[33m, [m[1;32maddfile[m[33m)[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Tue May 11 00:24:40 2021 +0100
+
+    add
+
+[33mcommit db631416f68a961c38c513af133a9d20ba609142[m
+Merge: e41d0c0 9d542a8
+Author: Edgar <edpires4@saspo.pt>
+Date:   Tue May 11 00:23:04 2021 +0100
+
+    Merge branch 'deleteFiles'
+
+[33mcommit 9d542a8c912ddd0a4fd2623a9fded1cbd63b0827[m[33m ([m[1;31morigin/deleteFiles[m[33m, [m[1;32mdeleteFiles[m[33m)[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Tue May 11 00:20:41 2021 +0100
+
+    delete
+
+[33mcommit e41d0c072610d3106818e6303ada87689cfea565[m
+Merge: 5654481 078dc16
+Author: Edgar <edpires4@saspo.pt>
+Date:   Tue May 11 00:19:14 2021 +0100
+
+    Merge branch 'deleteFiles'
+
+[33mcommit 078dc16c3d66000d9872f6b9ad2f8737139a944a[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Tue May 11 00:16:30 2021 +0100
+
+    add
+
+[33mcommit 56544816646048446f5e166cd95f837b0cf1b00c[m
+Merge: 6c078c9 fb85d8e
+Author: EdPiresW <77972418+EdPiresW@users.noreply.github.com>
+Date:   Tue May 11 00:15:06 2021 +0100
+
+    Merge pull request #5 from EdPiresW/deleteFiles
+    
+    deleteFiles
+
+[33mcommit fb85d8ed71f87275158a1a8a2da0a3e5a2e53197[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Tue May 11 00:11:12 2021 +0100
+
+    deleteFiles
+
+[33mcommit 6c078c93061aad659727bf8f2f57db0728fbda2a[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Tue May 11 00:05:48 2021 +0100
+
+    add File4
+
+[33mcommit bf5400ff90f84ff57b19e7f796eda40478a1f87a[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:56:57 2021 +0100
+
+    teste
+
+[33mcommit 5c353a8db5f8c767fd6ed823dc28d04c42b3e927[m
+Merge: 58c3aa2 c6b3e32
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:53:12 2021 +0100
+
+    Merge branch 'newchanges'
+
+[33mcommit c6b3e32f67db34ba65801d1d26ccef7c32caa258[m[33m ([m[1;31morigin/newchanges[m[33m)[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:50:49 2021 +0100
+
+    teste
+
+[33mcommit 58c3aa2922011b9eca534e1cb1ca3562bdbba58a[m
+Merge: dc491af c4e607d
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:49:28 2021 +0100
+
+    Merge branch 'newchanges'
+
+[33mcommit c4e607d1d0540f839f018935921d1d45be672f2a[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:48:21 2021 +0100
+
+    file
+
+[33mcommit dc491aff4c6ddb3bad2e24c56f992ff240a540ab[m
+Merge: 5374a45 99173db
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:42:57 2021 +0100
+
+    Merge branch 'newchanges'
+
+[33mcommit 99173db0c8d48bf3176ca1d85a4623aed4c79c6d[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:39:14 2021 +0100
+
+    new teste
+
+[33mcommit 5374a4504dfe08f36e059a6acfc7e10c629265f3[m
+Merge: fc68de7 24ffb27
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:35:45 2021 +0100
+
+    Merge branch 'newchanges'
+
+[33mcommit 24ffb2715a781a37949070267ab76a502154c0af[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:32:16 2021 +0100
+
+    new line
+
+[33mcommit fc68de79db7fd4db88f5bbfff5b85e99f51e38d9[m
+Merge: ae57a60 22a593f
+Author: EdPiresW <77972418+EdPiresW@users.noreply.github.com>
+Date:   Mon May 10 23:25:25 2021 +0100
+
+    Merge pull request #3 from EdPiresW/newchanges
+    
+    change
+
+[33mcommit 22a593f74f17a45f73723f258d9a0f570da1d324[m
+Author: Edgar <edpires4@saspo.pt>
+Date:   Mon May 10 23:15:36 2021 +0100
+
+    change
+
+[33mcommit ae57a60bf6a4056db4d6bedd4ae20dd00cf660a1[m
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 01:40:24 2021 +0100
+
+    add folder
+
+[33mcommit 20363d53889d970e6c05e133ce8937eeabac257c[m
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 01:36:44 2021 +0100
+
+    delete
+
+[33mcommit 39f342d9ece5b2cde259fcc85326d075eec00299[m
+Merge: 093cb21 69e6d26
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 01:31:22 2021 +0100
+
+    Merge branch 'cmake'
+
+[33mcommit 69e6d269a39768d18f85e1cd07ad8d662676df26[m[33m ([m[1;31morigin/cmake[m[33m)[m
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 01:27:57 2021 +0100
+
+    chages
+
+[33mcommit 093cb21dd11e3415015a97a183caa964542fdb42[m
+Merge: b92e712 80ed7e1
+Author: EdPiresW <77972418+EdPiresW@users.noreply.github.com>
+Date:   Mon May 10 01:18:46 2021 +0100
+
+    Merge pull request #2 from EdPiresW/cmake
+    
+    add cmake
+
+[33mcommit 80ed7e1f7dc0438cf8d0e02c7b07fb7b24ff2bf4[m
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 01:17:34 2021 +0100
+
+    add cmake
+
+[33mcommit b92e712ef3235e7ac90b1c3b5b7b9c9244aa6a55[m
+Merge: b964f65 f065075
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 00:58:16 2021 +0100
+
+    Merge branch 'newchanges' of https://github.com/EdPiresW/Cpp-exemples into newchanges
+
+[33mcommit b964f651151a7b17f903340a6797cb885dcb407d[m
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 00:55:05 2021 +0100
+
+    New Project
+
+[33mcommit f065075030a4cdb12b60c7b8448ae63bc6cb599f[m
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 00:55:05 2021 +0100
+
+    New Project
+
+[33mcommit 261e335c34332ed0ad7cfcd8929a2b9a63a3dc06[m
+Merge: e3fb180 dca0115
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 00:46:17 2021 +0100
+
+    Merge branch 'newchanges'
+
+[33mcommit dca0115b59d0f39a6d99a9477da48948da49252a[m
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 00:37:11 2021 +0100
+
+    add new teste
+
+[33mcommit e3fb180974f111f16a90b0bd4df4bce1cc320415[m
+Merge: 8655dc0 ede1453
+Author: EdPiresW <77972418+EdPiresW@users.noreply.github.com>
+Date:   Mon May 10 00:28:34 2021 +0100
+
+    Merge pull request #1 from EdPiresW/newchanges
+    
+    Add teste
+
+[33mcommit ede1453cdfd881c702534aabf60d9263ed058476[m
+Author: Edgar <edpires4@sapo.pt>
+Date:   Mon May 10 00:26:58 2021 +0100
+
+    Add teste
+
+[33mcommit 8655dc00f119b20f6c6e77907c32b0f89e2a511e[m
+Author: EdPiresW <77972418+EdPiresW@users.noreply.github.com>
+Date:   Mon May 10 00:20:42 2021 +0100
+
+    Initial commit
